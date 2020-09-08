@@ -14,6 +14,7 @@
         <AssociationConnector Association="libModel.FK_book_category" />
         <AssociationConnector Association="libModel.FK_book_publisher" />
         <EntityTypeShape EntityType="libModel.issuebook" Width="1.5" PointX="5.375" PointY="5.75" />
+        <EntityTypeShape EntityType="libModel.returnbook" Width="1.5" PointX="0.75" PointY="6.75" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>

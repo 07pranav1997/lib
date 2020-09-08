@@ -31,5 +31,6 @@ namespace lib.Models
         public virtual DbSet<member> members { get; set; }
         public virtual DbSet<book> books { get; set; }
         public virtual DbSet<issuebook> issuebooks { get; set; }
+        public virtual DbSet<returnbook> returnbooks { get; set; }
     }
 }
